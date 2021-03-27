@@ -1,2 +1,1 @@
 # Lauan-bot
-Bot foda
